@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - bulBasic
+  - bulEnemy
+  - boss
+  - PlateformeDepart
+  - Gate
+  - ZoneAttaqueNormal
+  - Put
+  - Shield2
+  - BloquePorte
+  - Shield
+  - Actif
+  - Attaque
+  - Potion1
+  - Tentacule
+  - InventoryPart5
+  - InventoryPart2
+  - AmountBoard
+  - InventoryPart4
+  - InventoryPart1
+  - Inventory
+  - InventoryPart3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 'Player '
+  - Enemy
+  - Bullet
+  - BulletEnemy
+  - Loot
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

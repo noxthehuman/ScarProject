@@ -1,0 +1,14 @@
+{
+    "amount_piece" : 0,
+    "amount_rubis" : 0,
+    "amount_slot_1" : 0,
+    "amount_slot_2" : 0,
+    "amount_slot_3" : 0,
+    "amount_slot_card" : 0,
+    "amount_slot_hotbar" : 0,
+    "hotbar_type" : "",
+    "slot1_type" : "",
+    "slot2_type" : "",
+    "slot3_type" : "",
+    "slotcard_type" : ""
+}
